@@ -107,12 +107,12 @@ Se placer dans le dossier `/Front-end` :
 
 ## Auteur·es
 
-* **Clément Coadou**
-* **Guillaume Depecker**
-* **Marion Ochem**
+* **Zoé Lecaille** - [GitHub](https://github.com/zoeleca)
+* **Clément Coadou** - [GitHub](https://github.com/Kushumai)
+* **Marion Ochem** - [GitHub](https://github.com/MarionOchem)
 * **Morgane Le MoaL** - [GitHub](https://github.com/M0nline) - [LinkedIn](https://www.linkedin.com/in/morganelemoal/)
-* **Philippe Deslous-Paoli**
+* **Philippe Deslous-Paoli** - [GitHub](https://github.com/PDeslousPaoli)
 * **Tijana Laporte-Mitrovic** - [GitHub](https://github.com/Tiki102) - [LinkedIn](https://www.linkedin.com/in/tijana-laporte-mitrovic-b13859152/)
-* **Zoé Lecaille**
+* **Guillaume Depecker** - [GitHub](https://github.com/psykokwak0912)
 
 Avec le soutien de Sofiane Khireddine et des encadrant·es d'Ada Tech School.
