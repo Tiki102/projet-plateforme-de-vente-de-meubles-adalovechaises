@@ -1,6 +1,8 @@
 # Ada Love Chaise (school project)
 Le projet consiste, pour deux équipes back-end et front-end, à créer une plateforme de vente de meubles d'occasion.
 
+Demo : [https://adalovechaise.vercel.app/](https://adalovechaise.vercel.app/)
+
 ## Features attendues
 
 ### Abouties
